@@ -1,16 +1,5 @@
-# last_fm
+## Notes
 
-A new Flutter project.
+I left comments in the code that otherwise would not be there to better understand my reasoning and what I would have done next if this were to be a bigger project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I was a bit uncertain on what you meant by 'use git'. So I created my usual branches (master, developer) and one feature branch because dividing this simple project into subtasks would have been overkill. For bigger projects and especially with more than just me as a developer I would have done so. 
