@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:last_fm/data/data.dart';
 import 'package:last_fm/domain/models/album.dart';
-import 'package:last_fm/presentation/album_details_page/widgets/error_image.dart';
-import 'package:last_fm/presentation/album_details_page/widgets/track_tile.dart';
+import 'package:last_fm/presentation/pages/album_details_page/widgets/error_image.dart';
+import 'package:last_fm/presentation/pages/album_details_page/widgets/track_tile.dart';
 import 'package:last_fm/presentation/widgets/bloc_provider_builder.dart';
 import 'package:last_fm/presentation/widgets/fm_image.dart';
 import 'package:last_fm/presentation/widgets/fm_shimmer.dart';
